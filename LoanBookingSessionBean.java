@@ -13,6 +13,9 @@ public static void printPattern(int n)
 //detrmines the boundary size of the array  
 int size = 2 * n - 1;  
 //inner loop  
+  //outer loop
+  //loop
+  //hook testimng
 for(int i = 1; i <= size; i++)  
 {  
 //outer loop      
