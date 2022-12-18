@@ -32,9 +32,8 @@ Scanner sc = new Scanner(System.in);
 System.out.print("Enter the value of n: ");  
 int n = sc.nextInt();  
 System.out.println();  
-//function calling  
-  
-  //TESTING FOR BUILDJOB WEBHOOK
+
 printPattern(n);  
 }  
 }  
+//HBJHBJHBJXHDBJHBHTESTING
